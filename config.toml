@@ -1,6 +1,6 @@
 site_title = "WangRongsheng Arxiv"
 limit_days = 7
-cache_url = "https://wangrongsheng.github.io/wrsArxiv/cache.json"
+cache_url = "https://github.com/Lslland/wrsArxiv"
 
 [[sources]]
 limit = 150
